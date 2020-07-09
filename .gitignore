@@ -1,9 +1,4 @@
 # Project exclude paths
 /chaincode/node_modules
 chaincode-advanced
-.gitignore
-.idea/
 network/crypto-config
-/application/node_modules
-/application/identity
-network/bin
